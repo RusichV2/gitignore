@@ -1,8 +1,9 @@
 # Ignore single file
-new-file.txt
+another-file.txt
 
 # Ignore all files in the bin directory
 /bin
+/.idea
 
 # Ignore all .tmp files
 *.tmp

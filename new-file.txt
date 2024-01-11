@@ -1,0 +1,3 @@
+Some context in the new file
+
+One more line
